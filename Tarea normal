@@ -1,0 +1,3 @@
+Implementa un backend de prueba con Bun y SQLite, access JWT y refresh JWT con rotación y revocación. 
+Conecta el login de Expo, añade almacenamiento seguro de sesión y pruebas de login, renovación y logout. 
+Debe funcionar en Linux Mint y Windows. Usa únicamente usuarios ficticios.
